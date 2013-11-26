@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-11-14T10:04:03+00:00</updated>
+        <updated>2013-11-26T22:25:09+00:00</updated>
         <id></id>
          
         <entry>
@@ -3457,7 +3457,12 @@
   </tbody>
 </table>
 
-<p><img src="/Images/coasts/2waves/waveDiagram.png" alt="A diagram of a wave." /></p>
+<figure>
+<img src="/Images/coasts/2waves/waveDiagram.svg" alt="A diagram showing the key features of a wave" />
+<figcaption>
+The key features of a sea wave.
+</figcaption>
+</figure>
 
 <h2 id="wave-motion">Wave Motion</h2>
 
