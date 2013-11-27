@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-11-26T22:25:09+00:00</updated>
+        <updated>2013-11-27T12:33:21+00:00</updated>
         <id></id>
          
         <entry>
@@ -3606,7 +3606,12 @@ The key features of a sea wave.
                 </author>
                 <content type="html"><![CDATA[ <p>A coast is a narrow strip of land where the sea meets the land. Coasts are divided into zones depending on what the conditions are like on different sections of a coast. </p>
 
-<p><img src="/Images/coasts/1introduction/coastOutlineDiagram.png" alt="Diagram of a coast showing how it is divided into the below sections." /></p>
+<figure>
+<img src="/Images/coasts/1introduction/coastOutlineDiagram.svg" alt="A diagram of the coastal zones" />
+<figcaption>
+The zones of a coast. 
+</figcaption>
+</figure>
 
 <ul>
   <li><em>Backshore</em> - This is the area between the high water mark and the landward limit of marine activity. </li>
