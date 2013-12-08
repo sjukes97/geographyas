@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-12-08T00:47:22+00:00</updated>
+        <updated>2013-12-08T20:58:25+00:00</updated>
         <id></id>
          
         <entry>
@@ -2443,9 +2443,16 @@
                 </author>
                 <content type="html"><![CDATA[ <h2 id="potholes">Potholes</h2>
 
-<p>Potholes are cylindrical holes drilled into the bed of a river. They vary in diameter from just a few centimetres to several metres and the largest potholes are several metres deep. Potholes form when pebbles become trapped in small hollows and vertical eddies (a circular current of water counter to the flow of the river) develop, drilling the pebble into the bed and eroding the bed by corrasion, producing a hole that grows as the pebble erodes it. In order for the pebble to erode the bed the pebble needs to be <em>at least</em> as hard as the rock that makes up the river bed, if not harder otherwise it won’t have any effect and instead the pebble will be eroded. </p>
+<p>Potholes are cylindrical holes drilled into the bed of a river that vary in depth &amp; diameter from a few centimetres to several metres. They’re found in the <a href="/rivers/long-and-cross-profiles/">upper course</a> of a river where it has enough potential energy to erode vertically and its flow is turbulent. In the upper course of a river, its load is large and mainly transported by traction along the river bed. When flowing water encounters bedload, it is forced over it and downcuts behind the bedload in swirling <em>eddie currents</em>. These currents erode the river’s bed and create small depressions in it.</p>
 
-<p>Potholes are features found mainly in the upper course of the river as this is where the river has the most gravitational potential energy and so the greatest ability to erode vertically. In addition, the river is more turbulent in the upper course so it is more likely to create the eddies needed to drill the pebbles into the bed.</p>
+<figure>
+<img src="/Images/rivers/pothole-eddie-currents.svg" />
+<figcaption>
+  <p>The creation of eddie currents as a result of bedload in a river.</p>
+</figcaption>
+</figure>
+
+<p>As these depressions deepen, pebbles can become trapped in them. As a result of the eddie currents, the pebbles drill into the depressions making them more circular, wider &amp; deeper. Pebbles will only be able to erode a river’s bed though if the rock the pebble’s made of is stronger than the rock the river bed is made of.</p>
 
 <figure>
 <img src="/Images/rivers/river-clyde-pothole-jim-ness.jpg" />
@@ -2463,9 +2470,11 @@
 
 <h2 id="waterfalls-geological">Waterfalls (Geological)</h2>
 
-<p>Waterfalls develop when a change of lithology takes place in the river’s course resulting in differential erosion taking place. When the rock type of the river’s channel changes from hard rock to soft rock, the river erodes the soft rock faster than the hard rock (differential erosion) producing a sudden drop in the gradient of the river with the hard rock being higher up than the soft rock. As the river flows over the hard rock, it falls onto the soft rock with a considerable amount of force, eroding the soft rock and creating a greater height difference between the hard and soft rock, producing the waterfall. As the water flows over the waterfall, it carves out a <em>plunge pool</em> via corrasion and erodes &amp; undercuts the hard rock via a process called <em>splashback</em>. As the hard rock is undercut, a cap rock is produced. This is a chunk of hard rock that the river flows over before flowing over the waterfall that is unsupported as it has been undercut by splashback. The cap rock is unstable and will eventually collapse into the plunge pool causing the waterfall to retreat. Over thousands of years, the repeated process of the collapse of a cap rock and the retreat of the waterfall produces a <em>gorge of recession</em>.</p>
+<p>Waterfalls develop when a change of lithology (rock type) takes place along the river’s course resulting in differential erosion. When the rock type of the river’s channel changes from a resistant rock to a less resistant one (e.g. granite to limestone), the river erodes the less resistant rock faster producing a sudden drop in the gradient of the river with the resistant rock being higher up than the less resistant rock. As the river flows over the resistant rock, it falls onto the less resistant rock, eroding it and creating a greater height difference between the two rock types, producing the waterfall. </p>
 
-<p><img src="/Images/rivers/waterfall-diagram.png" alt="" /></p>
+<p>When water flows over the waterfall it creates a plunge pool at its base and the splashback from the falling water undercuts the resistant rock. The unsupported rock is known as the cap rock and it eventually collapses into the plunge pool causing the waterfall to retreat upstream. Over thousands of years, the repeated collapse of the cap rock and retreat of the waterfall produces a <em>gorge of recession</em>.</p>
+
+<p><img src="/Images/rivers/waterfall-diagram.svg" alt="" /></p>
 
 <h2 id="rapids">Rapids</h2>
 
@@ -2541,13 +2550,13 @@
 
 <h2 id="deltas">Deltas</h2>
 
-<p>Deltas are depositional landforms found at the mouth of a river where the river meets a body of water with a lower velocity than the river (e.g. a lake or the sea). The body of water must be relatively quiet and stable with a low tidal range so that deposited sediment isn’t washed away and can instead build up. </p>
+<p>Deltas are depositional landforms found at the mouth of a river where the river meets a body of water with a lower velocity than the river (e.g. a lake or the sea). For a delta to develop, the body of water needs to be relatively quiet with a low tidal range so that deposited sediment isn’t washed away and has time to accumulate. </p>
 
-<p>When a river meets a stationary body of water, its velocity falls causing any material being transported by the river to be deposited. Deltas are made up of three sediment beds that have been sorted by the size of the sediment. The bottom most bed, the <em>bottomset</em> bed, is composed primarily of clay and fine grained sediments because when clay meets salt water a process called flocculation takes place where clay &amp; salt particles clump together (flocculate) due to an electrostatic charge developing between the particles. This makes the clay particles sink due to their increased weight producing the bottomset bed. The bottomset bed stretches a fair distance from the mouth of the river as the fine sediments can be transported a reasonable distance from the river’s mouth.</p>
+<p>When a river meets a stationary body of water, its velocity falls causing any material being transported by the river to be deposited. Deltas are made up of three sediment beds that have been sorted by the size of the sediment. The bottom most bed, the <em>bottomset</em> bed, is composed primarily of clay and some other fine grained sediments. Clay is the main constituent because when clay meets salt water a process called flocculation takes place where clay &amp; salt particles clump together (flocculate) due to an electrostatic charge developing between the particles. This makes the clay particles sink due to their increased weight producing the bottomset bed. The bottomset bed stretches a fair distance from the mouth of the river as the fine sediments can be transported a reasonable distance from the river’s mouth.</p>
 
-<p>The foreset bed is the next bed that develops on top of the bottomset bed. The foreset bed is composed of coarser sediments that are deposited due to a fall in the river’s velocity and aren’t transported very far into the stationary body of water that the river flows into. The foreset bed makes up the majority of the delta and is dipped towards deep water in the direction that the river is flowing in. </p>
+<p>The foreset bed lies on top of the bottomset bed. The foreset bed is composed of coarser sediments that are deposited due to a fall in the river’s velocity and aren’t transported very far into the stationary body of water that the river flows into. The foreset bed makes up the majority of the delta and is dipped towards deep water in the direction that the river is flowing in. </p>
 
-<p>The topset bed is the topmost bed of the delta. It is also composed of coarse sediment but, unlike the foreset bed, the topset bed isn’t dipped and is purely horizontal.</p>
+<p>The topset bed is, as the name suggests, the topmost bed of the delta. It too is composed of coarse sediment but, unlike the foreset bed, the topset bed doesn’t dip, it’s horizontally bedded.</p>
 
 <p><img src="/Images/rivers/delta-bedding-layers.svg" alt="" /></p>
 
