@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-12-08T20:58:25+00:00</updated>
+        <updated>2013-12-08T23:38:20+00:00</updated>
         <id></id>
          
         <entry>
@@ -2500,7 +2500,7 @@
 
 <p>A cross section of a meander would show that on the outside bend, the channel is very deep and concave. This is because the outside bend is where the river flows fastest and is most energetic, so lots of erosion by hydraulic action and corrasion takes place. <em>River cliffs</em> form on the outside bend as the river erodes laterally. The inside bend is shallower with a gentle <em>slip-off slope</em> made of sand or shingle that is brought across from the outside bend by the helicoidal flow of the river. The river flows much slower on the inside bend so some deposition takes place, contribution to the slip-off slope. </p>
 
-<p><img src="/Images/rivers/meander-cross-section.png" alt="" /></p>
+<p><img src="/Images/rivers/meander-cross-section.svg" alt="" /></p>
 
 <figure>
     <img src="/Images/rivers/river-cliff.jpg" alt="A picture of a river cliff" />
@@ -2540,7 +2540,7 @@
 
 <p>Levees aren’t permanent structures. Once the river’s discharge exceeds its bankfull discharge<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, the levees can be burst by the high pressure of the water. Levees increase the height of the river’s channel though, so the bankfull discharge is increased and it becomes more difficult for the river to flood. </p>
 
-<p><img src="/Images/rivers/levee-diagram.png" alt="" /></p>
+<p><img src="/Images/rivers/levee-diagram.svg" alt="" /></p>
 
 <h2 id="oxbow-lakes">Oxbow Lakes</h2>
 
@@ -3766,7 +3766,7 @@ The zones of a coast.
 
 <p>You can graph the water budget if you want. If you plot evapotranspiration and precipitation on one axis and the month on another, you’ll get two curves. Here’s an example for a (fictional) drainage basin in the UK or some other temperate climate:</p>
 
-<p><img src="/Images/rivers/water-balance-graph.png" alt="" /></p>
+<p><img src="/Images/rivers/water-balance-graph.svg" alt="" /></p>
 
 <hr />
 
