@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-11-27T14:46:31+00:00</updated>
+        <updated>2013-12-08T00:47:22+00:00</updated>
         <id></id>
          
         <entry>
@@ -2483,7 +2483,7 @@
 
 <p>In a pool, the channel is more efficient while at a riffle, the channel is less efficient. This causes the flow of the river to become irregular and the maximum flow is concentrated on one side of the river. This increases erosion on one side of the river and increases deposition on the other causing the river’s channel to appear to bend. Erosion is greatest on the outside bend and deposition is greatest on the inside bend.</p>
 
-<p><img src="/Images/rivers/riffles-and-pools.png" alt="" /></p>
+<p><img src="/Images/rivers/riffles-and-pools.svg" alt="" /></p>
 
 <p>The alternating riffles &amp; pools have another affect, they increase the turbulence of the river and produce a special type  of flow known as <em>helicoidal</em> flow. This is a corkscrew like movement which spirals from one side of the channel to another between pools. The helicoidal flow erodes the pools along the channel and increases deposition on the next inside bend after a pool. </p>
 
@@ -2549,7 +2549,7 @@
 
 <p>The topset bed is the topmost bed of the delta. It is also composed of coarse sediment but, unlike the foreset bed, the topset bed isn’t dipped and is purely horizontal.</p>
 
-<p><img src="/Images/rivers/delta-bedding-layers.png" alt="" /></p>
+<p><img src="/Images/rivers/delta-bedding-layers.svg" alt="" /></p>
 
 <p>Deltas can take on many different shapes. The three primary shapes of delta are <em>cuspate</em>, <em>arcuate</em> and <em>bird’s foot</em>.</p>
 
@@ -2950,15 +2950,15 @@
 
 <p>In the upper course, the valley and channel are narrow and deep as a result of the large amount of vertical erosion and little lateral erosion. The sides of a river’s valley in the upper course are very steep earning these valleys the nickname <em>“V-Shaped Valley”</em> since they look like a letter V. The river’s valley can be anything from a few meters to a few hundred metres in width depending on the lithology but the channel rarely more than 5m or 6m wide. </p>
 
-<p><img src="/Images/rivers/upper-course-cross-section.png" alt="" /></p>
+<p><img src="/Images/rivers/upper-course-cross-section.svg" alt="" /></p>
 
 <p>In the middle course, the valley has increased in width due to the increase in lateral erosion but its depth hasn’t changed significantly because vertical erosion has slowed down. Similarly, the channel’s width has increased but it’s still roughly the same depth. The land to either side of the channel in the valley is now the river’s floodplain and the valley’s sides are much more gentle. </p>
 
-<p><img src="/Images/rivers/middle-course-cross-section.png" alt="" /></p>
+<p><img src="/Images/rivers/middle-course-cross-section.svg" alt="" /></p>
 
 <p>In the lower course the valley is now very wide (often several kilometres) and the floodplain has increased greatly in size. The channel is a little wider but not much deeper.</p>
 
-<p><img src="/Images/rivers/lower-course-cross-section.png" alt="" /></p>
+<p><img src="/Images/rivers/lower-course-cross-section.svg" alt="" /></p>
 
 <h2 id="channel-efficiency--velocity">Channel Efficiency &amp; Velocity</h2>
 
