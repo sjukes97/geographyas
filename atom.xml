@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-12-08T23:38:20+00:00</updated>
+        <updated>2013-12-09T22:12:17+00:00</updated>
         <id></id>
          
         <entry>
@@ -2927,13 +2927,13 @@
 
 <p>The long profile shows how a river’s gradient changes as it flows from its source to its mouth. You can draw a diagram of a river’s long profile either by drawing a quick sketch based on some previous knowledge or by plotting the height of the river above sea level at various points in its course. A sketch of a long profile would look something like this:</p>
 
-<p><img src="/Images/rivers/long-profile-diagram.png" alt="" /></p>
+<p><img src="/Images/rivers/long-profile-diagram.svg" alt="" /></p>
 
 <p>The long profile shows how, in the upper stage of a river’s course, the river’s gradient is steep but it gradually flattens out as the river erodes towards its base level. One thing to note is the presence of knickpoints in the long profile. These are points where the gradient of the river changes suddenly and can be caused by landforms like waterfalls or lakes, where the lithology of the river changes and differential erosion takes place. Knickpoints can also be the result of <a href="/rivers/rejuvenation/">rejuvenation</a>, where the base level of the river falls giving it some extra gravitational potential energy to erode vertically.</p>
 
 <p>Throughout the long profile of a river, deposition and erosion are balanced meaning that, given enough time, the river’s long profile would become a smooth, concave, <em>graded profile</em> and all the knickpoints would be eliminated as they are either eroded or filled in by deposition. It would take a <em>long</em> time for a river’s long profile to become a graded profile though so the idea of a graded profile is, essentially, theoretical as it doesn’t really occur in nature. It’s not too hard to imagine what a graded profile would look like but here’s a sketch of one anyway: </p>
 
-<p><img src="/Images/rivers/graded-profile-diagram.png" alt="" /></p>
+<p><img src="/Images/rivers/graded-profile-diagram.svg" alt="" /></p>
 
 <p>If you needed to describe the graded profile you could describe it as a smooth, concave profile in dynamic equilibrium.</p>
 
