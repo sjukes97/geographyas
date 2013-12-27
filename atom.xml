@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2013-12-23T23:59:17+00:00</updated>
+        <updated>2013-12-27T00:26:56+00:00</updated>
         <id></id>
          
         <entry>
@@ -1774,11 +1774,11 @@
 
 <h2 id="location">Location</h2>
 
-<p><img src="/Images/rivers/boscastle-gmap.png" alt="The location of boscastle on a map." /></p>
+<p>Boscastle is located in southwest England less than a kilometre from the coastline. The River Valency flows directly through the town and meets the River Jordan at a confluence in the town. The river valleys are steep and composed of shale, an impermeable rock. </p>
 
-<ul>
-  <li>Boscastle is located in southwest England less than a kilometre from the coastline. The River Valency flows directly through the town and meets the River Jordan at a confluence in the town. The river valleys are steep and composed of shale, an impermeable rock. </li>
-</ul>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4793819.344304313!2d-4.133347673535226!3d54.0784941300803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486b83f9ccc49d2d%3A0x21db817d06b53030!2sBoscastle%2C+Cornwall%2C+UK!5e0!3m2!1sen!2s!4v1388103175661" width="600" height="400" frameborder="0" style="border:0"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2527.630479323211!2d-4.693994495717113!3d50.6896837126951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1388102962024" width="1140" height="600" frameborder="0" style="border:0"></iframe>
 
 <h2 id="causes">Causes</h2>
 
@@ -1859,6 +1859,8 @@
 <h3 id="location-1">Location</h3>
 
 <p>Bihar is located in the north east of India, to the south of the Himalayas bordering Nepal. It is one of the poorest states in India where the caste class system, despite its lack of legality, is still in widespread use. In Bihar, 42% of the population lives below the poverty line. Through Bihar flows the River Kosi, a tributary to the Ganges. </p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7322789.182436418!2d84.57329216664702!3d26.340075026160626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed5844f0bb6903%3A0x57ad3fed1bbae325!2sBihar%2C+India!5e0!3m2!1sen!2s!4v1388103512987" width="1140" height="600" frameborder="0" style="border:0"></iframe>
 
 <h3 id="causes-1">Causes</h3>
 
@@ -2516,6 +2518,12 @@
     </figcaption>
 </figure>
 
+<h2 id="oxbow-lakes">Oxbow Lakes</h2>
+
+<p>Oxbow lakes are an evolution of meanders that undergo extensive deposition and erosion. As we’ve <a href="#characteristics">just seen</a>, strong erosion takes place on the outside bend of a meander while deposition takes place on the inisde bend. As a result, the neck of a meander narrows. During extremely high discharge (e.g., a flood), it’s more efficient for a river to flow accross the neck of a meander rather than around it. When discharge returns to normal levels, the river continues follow this new course. The meander is left connected to the channel as a <em>cutoff</em>. Deposition eventually separates the cutoff from the main channel leaving behind an <em>oxbow lake</em>. With its main source of water disconnected, the lake eventually dries up leaving behind a <em>meander scar</em>.</p>
+
+<p><img src="/Images/rivers/oxbow-lake-formation-diagram.svg" alt="" /></p>
+
 <h2 id="braided-channels">Braided Channels</h2>
 
 <p>A braided channel is a type of channel that is divided into smaller sub-channels by small, temporary islands called <em>eyots</em>. Braided channels develop in rivers with a lot of sedimentary load, a steep gradient and where the discharge of the river changes regularly. When the volume of load exceeds the river’s capacity or the discharge of the river drops, the river is forced to deposit its load in the channel and islands of sediment (eyots) form.</p>
@@ -2541,12 +2549,6 @@
 <p>Levees aren’t permanent structures. Once the river’s discharge exceeds its bankfull discharge<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>, the levees can be burst by the high pressure of the water. Levees increase the height of the river’s channel though, so the bankfull discharge is increased and it becomes more difficult for the river to flood. </p>
 
 <p><img src="/Images/rivers/levee-diagram.svg" alt="" /></p>
-
-<h2 id="oxbow-lakes">Oxbow Lakes</h2>
-
-<p>Oxbow lakes develop from meanders that have undergone extensive deposition. The neck of a meander gradually narrows as a result of deposition on the inside bend. During periods of high discharge, a river will break across a meander’s neck so that it can take the fastest route until discharge returns to normal levels. Over time, the neck of the meander will narrow until the meander is blocked off by deposition causing the river to assume a new, straighter course and leaving the remains of the meander as an oxbow lake. Ultimately, the lake will dry up and a <em>meander scar</em> will be all that is left.</p>
-
-<p><img src="/Images/rivers/oxbow-lake-formation-diagram.png" alt="" /></p>
 
 <h2 id="deltas">Deltas</h2>
 
@@ -2995,7 +2997,7 @@
 
 <h2 id="river-cross-profiles">River Cross Profiles</h2>
 
-<p>River cross profiles show you a cross section of a river’s channel <strong>and</strong> valley at certain points in the river’s course. The cross profile of a river changes as it moves from the upper to lower course as a result of changes in the river’s energy and the processes that the river carries out. </p>
+<p>River cross profiles show you a cross-section of a river’s channel <strong>and</strong> valley at certain points in the river’s course. The cross profile of a river changes as it moves from the upper to lower course as a result of changes in the river’s energy and the processes that the river carries out. </p>
 
 <p>In the upper course, the valley and channel are narrow and deep as a result of the large amount of vertical erosion and little lateral erosion. The sides of a river’s valley in the upper course are very steep earning these valleys the nickname <em>“V-Shaped Valley”</em> since they look like a letter V. The river’s valley can be anything from a few meters to a few hundred metres in width depending on the lithology but the channel rarely more than 5m or 6m wide. </p>
 
@@ -3019,15 +3021,15 @@
 
 <p>\[ R_h = \frac{A}{P} \]</p>
 
-<p>Where \(R_h\) is the hydraulic radius, \(A\) is the cross sectional area of the channel and \(P\) is the wetted perimeter of the channel. The wetted perimeter is the length of the river’s bed and banks that is in contact with the water.</p>
+<p>Where \(R_h\) is the hydraulic radius, \(A\) is the cross-sectional area of the channel and \(P\) is the wetted perimeter of the channel. The wetted perimeter is the length of the river’s bed and banks that is in contact with the water.</p>
 
 <p>A large hydraulic radius is more efficient because it means that a smaller proportion of the river’s water is in contact with the bed &amp; banks so there is less friction. The ideal channel shape for a large hydraulic radius would be a narrow and deep channel. Wide and shallow channels are less efficient and have a smaller hydraulic radius.</p>
 
-<p>Here’s an example of calculating the hydraulic radius. Consider the two channel cross sections below:</p>
+<p>Here’s an example of calculating the hydraulic radius. Consider the two channel cross-sections below:</p>
 
 <p><img src="/Images/rivers/channel-efficiency-example-diagram.svg" alt="" /></p>
 
-<p>The cross sectional area of channel A is 20m<sup>2</sup> and its wetted perimeter is 14m so its hydraulic radius is 1.4. For channel B, the cross sectional area is 16m<sup>2</sup> and its wetted perimeter is 12m meaning that its hydraulic radius is 1.3. Channel A has the larger hydraulic radius so it’s the more efficient channel. We could have guessed that channel A is the more efficient channel without working out the hydraulic radius because it’s deeper and narrower than channel B. </p>
+<p>The cross-sectional area of channel A is 20m<sup>2</sup> and its wetted perimeter is 14m so its hydraulic radius is 1.4. For channel B, the cross-sectional area is 16m<sup>2</sup> and its wetted perimeter is 12m meaning that its hydraulic radius is 1.3. Channel A has the larger hydraulic radius so it’s the more efficient channel. We could have guessed that channel A is the more efficient channel without working out the hydraulic radius because it’s deeper and narrower than channel B. </p>
 
 <h3 id="channel-roughness">Channel Roughness</h3>
 
@@ -3037,11 +3039,16 @@
 
 <h2 id="channel-velocity">Channel Velocity</h2>
 
-<p>The velocity of a river varies throughout the river’s course but the velocity of a river also varies within a specific cross section of the channel too. Close to the bed and banks friction is great so the river flows slower. In the centre of the channel, friction is lower so the river flows faster. The fastest point in a cross section of a channel is in the middle of the channel just beneath the surface so that friction with the bed, banks &amp; air is minimal. This point is known as the <em>thalweg</em>.</p>
+<p>The average flow velocity of a river increases along its long profile. This makes sense; along the profile, more potential energy is converted to kinetic energy, increasing the velocity. This is only the average velocity however; a cross-section of a river shows that the velocity varies from one side to the other. The lowest velocities are found where the river is shallow and so friction is greatest. The maximum velocity is found near the river’s surface where the channel is deep. At this point, friction with both the air and the channel is minimal. This point is often directly above the river’s <em>thalweg</em>.</p>
 
-<p>The velocity at different points in a channel’s cross section can be illustrated on a channel’s cross section using isovels: </p>
+<dl>
+  <dt>Thalweg:</dt>
+  <dd>A line running along a river’s profile linking its deepest points. A river’s fastest flow normally runs along it.</dd>
+</dl>
 
-<p><img src="/Images/rivers/channel-velocity-cross-section.png" alt="" /></p>
+<p>The velocity at different points along a channel’s cross-section is shown using <em>isovels</em>. That’s just a fancy name for contour lines that link areas of equal velocity.</p>
+
+<p><img src="/Images/rivers/channel-velocity-cross-section.svg" alt="An example cross-section of a river channel with isovels drawn on. The shape of the isovels will vary with the shape of the channel." /> </p>
 
 <hr />
 
@@ -3597,7 +3604,7 @@ The key features of a sea wave.
 
 <p>The discharge of a river changes over time depending on a few factors. The most influential factor is the weather. After heavy rainfall the discharge of the river will be higher because there’s more water entering the river. The weather affects discharge so much that there’s a special graph that we can draw called a <em>hydrograph</em> which shows precipitation and discharge on the same graph and makes it easy to see how quickly precipitation affects the discharge of a river. A <em>storm hydrograph</em> is a specific type of hydrograph that, surprise, surprise, shows precipitation and discharge during and after a storm. The main difference between a normal hydrograph and a storm hydrograph is that a storm hydrograph is over a much shorter period of time. Below is a storm hydrograph for the fictional River Shui:</p>
 
-<p><img src="/Images/rivers/storm-hydrograph.png" alt="" /></p>
+<p><img src="/Images/rivers/storm-hydrograph.svg" alt="" /></p>
 
 <p>There’s a curve showing the discharge of the river and there’s a series of bars showing some (fairly heavy) precipitation. There’s a few things to note on this graph. First is the <em>lag time</em>. The lag time is the time difference between the peak precipitation and and the peak discharge. A long lag time indicates that it’s taking a long time for precipitation to enter the river. Conversely, a short lag time indicates that the precipitation is entering the river fairly quickly. The <em>rising limb</em> is the steep part of the discharge line that has a positive gradient, indicating that the discharge is increasing. The <em>falling limb</em> is the opposite showing that the discharge is falling.</p>
 
@@ -3635,7 +3642,7 @@ The key features of a sea wave.
 
 <p>It’s very common for questions about hydrographs to come up in the exam but that’s OK, these are normally 2 or 4 mark questions that ask you to read something off a graph or describe the graph. Easy marks. The ever so slightly harder questions are the ones that ask you to explain a hydrograph because these require you to think. Let’s look at the storm hydrograph for the fictional River Shui again:</p>
 
-<p><img src="/Images/rivers/storm-hydrograph.png" alt="" /></p>
+<p><img src="/Images/rivers/storm-hydrograph.svg" alt="" /></p>
 
 <p>If asked to describe the hydrograph you could quote the lag time, peak discharge and comment on the steepness of the rising and falling limbs (remember, state values off of the graph). Instead, you could be asked to explain the hydrograph’s shape. These reasons are essentially all the factors we discussed previously. You need to state a factor and then explain how and why it affects the shape of the hydrograph.</p>
 
