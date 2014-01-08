@@ -211,16 +211,8 @@
 	<!--SVGeezy JS https://github.com/benhowdle89/svgeezy-->
 	<script>var svgeezy=function(){return{init:function(t,i){this.avoid=t||!1,this.filetype=i||"png",this.svgSupport=this.supportsSvg(),this.svgSupport||(this.images=document.getElementsByTagName("img"),this.imgL=this.images.length,this.fallbacks())},fallbacks:function(){for(;this.imgL--;)if(!this.hasClass(this.images[this.imgL],this.avoid)||!this.avoid){var t=this.images[this.imgL].getAttribute("src");if(null===t)continue;if("svg"==this.getFileExt(t)){var i=t.replace(".svg","."+this.filetype);this.images[this.imgL].setAttribute("src",i)}}},getFileExt:function(t){var i=t.split(".").pop();return-1!==i.indexOf("?")&&(i=i.split("?")[0]),i},hasClass:function(t,i){return(" "+t.className+" ").indexOf(" "+i+" ")>-1},supportsSvg:function(){return document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")}}}();(function(){svgeezy.init(!1,"png")}).call(this);</script>
 
-	<!--Optimised GA script ripped from HTML5Boilerplate-->
-	<script>
-            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-            e.src='//www.google-analytics.com/analytics.js';
-            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-            ga('create','UA-28196489-1');ga('send','pageview');
-    </script>
-
+	<!--Google Analytics-->
+	<script>var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28196489-1"]),_gaq.push(["_setDomainName","geographyas.info"]),_gaq.push(["_trackPageview"]),function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(t,a)}();</script>
 	<!--Load any additional scripts the page needs (e.g., MathJax)-->
 	
 	
