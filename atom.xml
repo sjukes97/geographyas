@@ -3,7 +3,7 @@
         <title>Geography AS Notes</title>
         <link href="http://geographyas.info/atom.xml" rel="self" />
         <link href="http://geographyas.info" />
-        <updated>2014-03-03T23:50:54+00:00</updated>
+        <updated>2014-03-04T00:19:00+00:00</updated>
         <id></id>
          
         <entry>
@@ -997,7 +997,7 @@
 <a name="Land.Management"></a>
 <h3>Land Management</h3>
 
-<p>Land management is often used to help protect and rebuild dunes. Sand dunes act as a good barrier against coastal flooding and erosion and they can be exploited as a natural defence against the sea. In order to do so though, the dunes must be left relatively undisturbed so boardwalks are constructed and sections of sand dune systems are marked as out of bounds to the general public in order to reduce the erosion of the dunes by humans. This land management is discussed in more detail <a href="/coasts/features-of-deposition/#sandDuneProtection">here</a>.</p>
+<p>Land management is often used to help protect and rebuild dunes. Sand dunes act as a good barrier against coastal flooding and erosion and they can be exploited as a natural defence against the sea. In order to do so though, the dunes must be left relatively undisturbed so boardwalks are constructed and sections of sand dune systems are marked as out of bounds to the general public in order to reduce the erosion of the dunes by humans. This land management is discussed in more detail <a href="/coasts/features-of-deposition/#Sand.Dune.Protection">here</a>.</p>
 
 <a name="Marshland.Creation"></a>
 <h3>Marshland Creation</h3>
@@ -1042,7 +1042,7 @@
 
 <p>Thursaston is located on the opposite side of the Wirral and is the exact opposite to New Brighton in terms of development and importance (to some people). Thursaston has very little in terms of human developments. The area is in fact a SSSI (Site of Special Scientific Interest) and is mostly just plants and wildlife with some interesting sandstone landforms. Given that Thursaston lacks human development, little has been done to prevent coastal erosion here. What has been done, though, is all soft engineering.</p>
 
-<p>The cliffs along Thursaston are very susceptible to erosion despite the fact that the waves washing ashore are relatively weak constructive waves. The reason for their susceptibility is their composition. They&rsquo;re primarily weak sandstone and boulder clay and the <a href="/coasts/coastal-erosion/#dip">bedding layers</a> of the cliffs dip towards the sea, so they&rsquo;re not particularly stable. The cliffs are also susceptible to sub-aerial weathering and mass movements are frequently take place along them.</p>
+<p>The cliffs along Thursaston are very susceptible to erosion despite the fact that the waves washing ashore are relatively weak constructive waves. The reason for their susceptibility is their composition. They&rsquo;re primarily weak sandstone and boulder clay and the <a href="/coasts/coastal-erosion/#Cliff.Profiles..amp..Bedding.Layers">bedding layers</a> of the cliffs dip towards the sea, so they&rsquo;re not particularly stable. The cliffs are also susceptible to sub-aerial weathering and mass movements are frequently take place along them.</p>
 
 <p>Given the low-value land that lies behind these cliffs, the local council and environmental agency has done little in terms of trying to protect these cliffs and what has been done wasn&rsquo;t particularly effective.</p>
 
@@ -1473,14 +1473,14 @@
 
 <p>Besides being highly effective at reducing the risk of flooding, dams can also be used to generate hydroelectric power that can bring economic benefits to an area by attracting manufacturing factories or being exported to other countries. The reservoir that develops behind a dam can be used as a drinking source or for leisure activities.</p>
 
-<p>Despite these benefits, dams have some damn big (so sorry) problems. Dams are among the most expensive of  all hard engineering techniques and require access to lots of raw materials like concrete and steel. They also have a huge impact on the local environment. The area behind a dam has to be flooded which destroys habitats and forces people out of their homes. Dams disrupt the processes that take place within a river too by, for example, preventing sediment from being transported downstream. This can result in landforms like <a href="/rivers/river-landforms/#deltas">deltas</a> being destroyed which can in turn result in the destruction of more habitats. When sediment gets trapped behind a dam, it can change the chemical composition of the water behind the dam which can kill aquatic animals living upstream.</p>
+<p>Despite these benefits, dams have some damn big (so sorry) problems. Dams are among the most expensive of  all hard engineering techniques and require access to lots of raw materials like concrete and steel. They also have a huge impact on the local environment. The area behind a dam has to be flooded which destroys habitats and forces people out of their homes. Dams disrupt the processes that take place within a river too by, for example, preventing sediment from being transported downstream. This can result in landforms like <a href="/rivers/river-landforms/#Deltas">deltas</a> being destroyed which can in turn result in the destruction of more habitats. When sediment gets trapped behind a dam, it can change the chemical composition of the water behind the dam which can kill aquatic animals living upstream.</p>
 
 <p>Dams pose a huge risk too. They store thousands of litres of water behind them so if they were to fail, they’d cause widespread death and damage downstream as all the water is released at once.</p>
 
 <a name="L.Artificial..Lev..es"></a>
 <h3>(Artificial) Levées</h3>
 
-<p>Artificial levées are, well, artificial versions of their <a href="/rivers/river-landforms/#levees">natural counterparts</a>. They act as embankments, essentially extending the channel’s height and increasing its bankfull discharge. Unlike natural levées, artificial levées are significantly larger and are generally constructed out of a material like concrete that is resistant to erosion. The main advantage of an artificial levée is that it allows the floodplain to be built on. This is their downfall though as they <em>encourage</em> the development of the floodplain which can increase the risk of flooding. Furthermore, if they did fail, like the embankments along the Mississippi did in 1927<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, the damage from the flood would be far worse than if the embankments didn’t exist.</p>
+<p>Artificial levées are, well, artificial versions of their <a href="/rivers/river-landforms/#Levees">natural counterparts</a>. They act as embankments, essentially extending the channel’s height and increasing its bankfull discharge. Unlike natural levées, artificial levées are significantly larger and are generally constructed out of a material like concrete that is resistant to erosion. The main advantage of an artificial levée is that it allows the floodplain to be built on. This is their downfall though as they <em>encourage</em> the development of the floodplain which can increase the risk of flooding. Furthermore, if they did fail, like the embankments along the Mississippi did in 1927<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, the damage from the flood would be far worse than if the embankments didn’t exist.</p>
 
 <a name="Wing.Dykes"></a>
 <h3>Wing Dykes</h3>
@@ -2585,7 +2585,7 @@
                       <name></name>
                       <uri>http://geographyas.info</uri>
                 </author>
-                <content type="html"><![CDATA[ <p>Sub-aerial processes are land based processes which alter the shape of a coastline. They&rsquo;re a combination of both <a href="#weathering">weathering</a> and <a href="#mass-movement">mass movement</a>.</p>
+                <content type="html"><![CDATA[ <p>Sub-aerial processes are land based processes which alter the shape of a coastline. They&rsquo;re a combination of both <a href="#Weathering">weathering</a> and <a href="#Mass.Movement">mass movement</a>.</p>
 
 <a name="Weathering"></a>
 <h2>Weathering</h2>
@@ -2823,7 +2823,7 @@
 <a name="Oxbow.Lakes"></a>
 <h2>Oxbow Lakes</h2>
 
-<p>Oxbow lakes are an evolution of meanders that undergo extensive deposition and erosion. As we&rsquo;ve <a href="#characteristics">just seen</a>, strong erosion takes place on the outside bend of a meander while deposition takes place on the inisde bend. As a result, the neck of a meander narrows. During extremely high discharge (e.g., a flood), it&rsquo;s more efficient for a river to flow accross the neck of a meander rather than around it. When discharge returns to normal levels, the river continues follow this new course. The meander is left connected to the channel as a <em>cutoff</em>. Deposition eventually separates the cutoff from the main channel leaving behind an <em>oxbow lake</em>. With its main source of water disconnected, the lake eventually dries up leaving behind a <em>meander scar</em>.</p>
+<p>Oxbow lakes are an evolution of meanders that undergo extensive deposition and erosion. As we&rsquo;ve <a href="#Characteristics">just seen</a>, strong erosion takes place on the outside bend of a meander while deposition takes place on the inisde bend. As a result, the neck of a meander narrows. During extremely high discharge (e.g., a flood), it&rsquo;s more efficient for a river to flow accross the neck of a meander rather than around it. When discharge returns to normal levels, the river continues follow this new course. The meander is left connected to the channel as a <em>cutoff</em>. Deposition eventually separates the cutoff from the main channel leaving behind an <em>oxbow lake</em>. With its main source of water disconnected, the lake eventually dries up leaving behind a <em>meander scar</em>.</p>
 
 <p><img src="/Images/rivers/oxbow-lake-formation-diagram.svg" alt="" /></p>
 
@@ -3181,7 +3181,7 @@
 
 <p>Rocks tend to form in layers of different rock types known as <em>beds</em>. These beds are subjected to tectonic forces that tilt and deform them so they dip at an angle. The angle the beds dip at affects how they are eroded and the profile of the resulting cliffs.</p>
 
-<p>Horizontal beds produce steep cliffs with notches where differential erosion has taken place. Near vertical beds (with a dip of ~90˚) also produce steep cliffs but differential erosion is less prevalent<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> in these structures. Beds that dip seaward produce gentler cliffs but are less stable because loose material can slide down the bedding planes in <a href="/coasts/sub-aerial-processes/#mass-movement">mass movements</a>. Landward dipping beds produce stabler &amp; steeper cliffs.</p>
+<p>Horizontal beds produce steep cliffs with notches where differential erosion has taken place. Near vertical beds (with a dip of ~90˚) also produce steep cliffs but differential erosion is less prevalent<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> in these structures. Beds that dip seaward produce gentler cliffs but are less stable because loose material can slide down the bedding planes in <a href="/coasts/sub-aerial-processes/#Mass.Movement">mass movements</a>. Landward dipping beds produce stabler &amp; steeper cliffs.</p>
 
 <p><figure>
     <img src="/Images/coasts/5coastalErosion/horizontal-bedding-layers.svg" />
@@ -3337,7 +3337,7 @@
 <a name="Processes.in.the.Lower.Course"></a>
 <h3>Processes in the Lower Course</h3>
 
-<p>In the lower course, the river has next to no gravitational potential energy so erosion is almost exclusively lateral. There isn’t much erosion though because the channel is smoother resulting in less turbulent flow. The main place where erosion takes place is where the river <a href="/rivers/river-landforms/#meanders">meanders</a>. The average particle size is very small now, another reason for the reduction in erosion. The river’s load is mainly composed of silts and clays and it is transported in suspension or even solution. Like in the middle course, when the river floods it deposits its load but deposition now also takes place at the mouth of the river where the river meets the sea or a stationary body of water.</p>
+<p>In the lower course, the river has next to no gravitational potential energy so erosion is almost exclusively lateral. There isn’t much erosion though because the channel is smoother resulting in less turbulent flow. The main place where erosion takes place is where the river <a href="/rivers/river-landforms/#Meanders">meanders</a>. The average particle size is very small now, another reason for the reduction in erosion. The river’s load is mainly composed of silts and clays and it is transported in suspension or even solution. Like in the middle course, when the river floods it deposits its load but deposition now also takes place at the mouth of the river where the river meets the sea or a stationary body of water.</p>
 
 <a name="River.Cross.Profiles"></a>
 <h2>River Cross Profiles</h2>
@@ -3491,7 +3491,7 @@
 
 <p>Erosion is the breaking down of material by an agent. In the case of a river, the agent is water. The water can erode the river’s channel and the river’s load. A river’s load is bits of eroded material, generally rocks, that the river transports until it deposits its load.</p>
 
-<p>A river’s channel is eroded laterally and vertically making the channel wider and deeper. The intensity of lateral and vertical erosion is dictated by the stage in the river’s course, discussed in more detail <a href="/rivers/river-stages/">here</a> but essentially, in the upper stage of the river’s course (close to the source of the river) there is little horizontal erosion and lots of vertical erosion. In the middle and lower stages vertical erosion is reduced and more horizontal erosion takes place.</p>
+<p>A river’s channel is eroded laterally and vertically making the channel wider and deeper. The intensity of lateral and vertical erosion is dictated by the stage in the river’s course, discussed in more detail <a href="/rivers/long-and-cross-profiles/#Changing.River.Processes">here</a> but essentially, in the upper stage of the river’s course (close to the source of the river) there is little horizontal erosion and lots of vertical erosion. In the middle and lower stages vertical erosion is reduced and more horizontal erosion takes place.</p>
 
 <p>There are several different ways that a river erodes its bed and banks. The first is <em>hydraulic action</em>, where the force of the water removes rock particles from the bed and banks. This type of erosion is strongest at rapids and waterfalls where the water has a high velocity. The next type of erosion is <em>corrasion</em><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. This is where the river’s load acts almost like sandpaper, removing pieces of rock as the load rubs against the bed &amp; banks. This sort of erosion is strongest when the river is transporting large chunks of rock or after heavy rainfall when the river’s flow is turbulent.</p>
 
@@ -4148,7 +4148,7 @@ The zones of a coast.
 
 <ul>
 <li>Energy is inputted in the form of waves, wind currents and tides. These will vary spatially and temporally (space and time, no not <a href="http://en.wikipedia.org/wiki/Space_and_time"><em>that</em> space and time</a>).</li>
-<li>Sediment from other <a href="/coasts/sub-aerial-processes/">eroded coastlines</a>, rivers and <a href="/coasts/coastal-weathering-and-mass-movement/">sub-aerial processes</a> will be deposited along coasts.</li>
+<li>Sediment from other <a href="/coasts/coastal-erosion/">eroded coastlines</a>, rivers and <a href="/coasts/sub-aerial-processes/">sub-aerial processes</a> will be deposited along coasts.</li>
 <li>Human activity will provide inputs for coastal systems.</li>
 </ul>
 
@@ -4228,7 +4228,7 @@ The zones of a coast.
 <a name="Flows"></a>
 <h2>Flows</h2>
 
-<p>Flows are fairly simple, they’re just the different ways that water can move from point A to B in a drainage basin. One of the obvious types of flow is <em>channel flow</em>. The name gives it away, this is where water flows through a river channel at a speed dependent on the <a href="/rivers/long-and-cross-profiles/#channel-efficiency--velocity">channel’s efficiency</a>.</p>
+<p>Flows are fairly simple, they’re just the different ways that water can move from point A to B in a drainage basin. One of the obvious types of flow is <em>channel flow</em>. The name gives it away, this is where water flows through a river channel at a speed dependent on the <a href="/rivers/long-and-cross-profiles/#Channel.Efficiency..amp..Velocity">channel’s efficiency</a>.</p>
 
 <p>Another type of flow is <em>overland flow</em>. You may have heard of this as <em>surface runoff</em>. This is where water travels across the surface of the ground when it can’t infiltrate into it. You’ll get this sort of flow when the ground is baked (dried for extensive periods of time), saturated or frozen. You can also get overland flow when you have a lot of impermeable rocks that water can’t permeate through. Overland flow is fastest when the water is travelling down a steep sided hill and almost non-existent when the land is flat.</p>
 
